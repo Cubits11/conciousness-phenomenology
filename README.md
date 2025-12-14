@@ -1,0 +1,2 @@
+Consciousness is metastable coordination: experience moves through semi-stable regimes (“attractors”) characterized by coupling strength and phase relations among subsystems (body, narrative, affect, attention).
+“Expansion/boundlessness” corresponds to a regime with high global coherence + low narrative dominance, while rumination loops correspond to high narrative coupling + low cross-system integration.
