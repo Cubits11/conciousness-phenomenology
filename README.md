@@ -7,4 +7,3 @@ Varela proposed this bridging program. Many labs do pieces of it. I am hoping to
 
 Research Question : Can we build an empirical early-warning system for human meaning spirals and expansion states using disciplined first-person data + dynamical signatures?
 
-The answer releases with a methodological paper on Friday - February 6th 2026. 
